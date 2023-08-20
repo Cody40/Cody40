@@ -1,4 +1,4 @@
-### Hi there 👋
+### Im Cody
 I use python to make projects
 
 <!--
