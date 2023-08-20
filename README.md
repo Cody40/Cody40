@@ -1,5 +1,5 @@
 ### Hi there 👋
-#I'm currently working on python
+I use python to make projects
 
 <!--
 **Cody40/Cody40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
