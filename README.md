@@ -1,8 +1,6 @@
 ### Im Cody
 I mostly use python to code. can code a bit in javascript too.<br>
 don't know how to use github properly but I'm too lazy to learn.
-
-and not much but I also have an entry account: 5f0fb5e31e4d240184f35d3a
 <!--
 **Cody40/Cody40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
