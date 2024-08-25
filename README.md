@@ -1,5 +1,5 @@
 ### Im Cody
-I mostly use python to make weird things
+I mostly use python to code. can code a bit in javascript too
 <!--
 **Cody40/Cody40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
